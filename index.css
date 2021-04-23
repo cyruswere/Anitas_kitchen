@@ -1,0 +1,56 @@
+header{
+    margin: 0;
+    width: 100%;
+    background-image: url("landing.jpg");
+    height: 800px;
+    background-repeat: no-repeat;
+    position: static;
+    background-size: cover;
+    background-position: center;
+}
+.nav div{
+    height: 4px;
+    background-color: white;
+    margin: 5px 0;
+    border-radius: 25px;
+}
+.nav{
+    width: 30px;
+    display: block;
+    margin: 9em 0 0 5em;
+    float: left;
+}
+
+.one{
+    width: 50px;
+}
+.two{
+    width: 50px;
+}
+.three{
+    width: 50px;
+}
+.nav div:hover {
+    width: max-content;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
