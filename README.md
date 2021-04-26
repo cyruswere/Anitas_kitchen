@@ -1,4 +1,4 @@
-### My favorite band
+### Anita's Kitchen
 ### Author
 ## Cyrus Were
 ### Description
