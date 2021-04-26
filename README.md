@@ -17,12 +17,12 @@
 #### https://github.com/cyruswere/Anitas_kitchen.git
 #### Technology used
 #### 1 html
-2 css
-3 VScode
-4 TerminalCLI
-Known Bugs
-forking repo
-cloning repo
+#### 2 css
+#### 3 VScode
+#### 4 TerminalCLI
+### Known Bugs
+#### forking repo
+#### cloning repo
 There are no any other known bugs currently but pull requests are allowed incase you spot a bug
 Contact Information
 If you have any question or contributions, please email me at [cyruswere01@gmail.com]
