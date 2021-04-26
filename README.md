@@ -3,9 +3,18 @@
 ## Cyrus Were
 ### Description
 ## This is a webpage that shows what services does Anita's kitchen offers and the different meal they prepare also they have attatched direction to their hotel . It also allows a person to leave comments after receiving services.
+# To access this project on your local files, you can clone it using these steps
+
+### 1 Open your terminal
+### 2 Use this command to clone `$ git clone https://cyruswere.github.io/Anitas_kitchen/
+### This will clone the repositoty into your local folder
+## Enjoy :)
+
 ## Prerequisities
 # You need to have git installed You can install it with the following command in your terminal $ sudo apt install git-all.
+
 ### Development Installation.
+
 # To get the code..
 ### https://github.com/cyruswere/Anitas_kitchen.git
 # Cloning the repository:
