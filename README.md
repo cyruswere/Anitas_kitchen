@@ -3,6 +3,8 @@
 ## Cyrus Were
 ### Description
 ## This is a webpage that shows what services does Anita's kitchen offers and the different meal they prepare also they have attatched direction to their hotel . It also allows a person to leave comments after receiving services.
+## Prerequisities
+# You need to have git installed You can install it with the following command in your terminal $ sudo apt install git-all.
 ### Development Installation.
 # To get the code..
 ### https://github.com/cyruswere/Anitas_kitchen.git
