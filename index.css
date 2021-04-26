@@ -153,16 +153,48 @@ header .landing{
     align-items: flex-start;
     justify-content: center;
 }
+.image{
+    display: block;
+}
+ul{
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    padding-inline-start: 40px;
+}
 .image> ul li{
     list-style: none;
-    box-shadow: 3px 3px 5px grey;
+    box-shadow: 1px 1px 3px grey;
     border: 2px hidden #f15a29;
+    width: 500px;
+}
+li{
+    display: list-item;
+    text-align:inherit;
 }
 .word{
     font-size: large;
     padding-left: 20px;
     padding-top: 20px;
+    align-items: flex-end;
 }
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+nav>ul>li{
+    color: black;
+    list-style: none;
+    display: inline-flex;
+    padding: 18px;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+ }
 #bed{
     background-color: #fff;
     color: #f15a29;
