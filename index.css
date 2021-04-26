@@ -74,8 +74,8 @@ header .landing{
 }
 .occassion .haparty .happy{
     background-color: white;
-    color: #F15A29;
-    border: 2px solid yellowgreen;
+    color:gray;
+    padding: 6px 0;
 }
 
 .slogan{
