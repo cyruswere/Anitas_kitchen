@@ -23,6 +23,6 @@
 ### Known Bugs
 #### forking repo
 #### cloning repo
-#### There are no any other known bugs currently but pull requests are allowed incase you spot a bug
+#### There are no any other known bugs currently but pull requests are allowed incase you spot a bug.
 ### Contact Information
-#### If you have any question or contributions, please email me at [cyruswere01@gmail.com]
+#### If you have any question or contributions, please email me at [cyruswere01@gmail.com].
