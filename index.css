@@ -1,4 +1,4 @@
-header{
+header .landing{
     margin: 0;
     width: 100%;
     background-image: url("landing.jpg");
@@ -7,6 +7,7 @@ header{
     position: relative;
     background-size: cover;
     background-position: center;
+
 }
 .nav div{
     height: 4px;
@@ -42,30 +43,49 @@ header{
 }
 .occassion{
    font-size: 30px;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   background-color: coral;
 }
-.happy{
-    background-color: wheat;
-    /* background-size: 700px; */
-    width: 200px;
-    padding-left: 50px;
-    height: 50px;
-    padding-top: 20px;
-}
-.party{
-    background-color:rgba(235, 78, 31, 0.836);
-    /* background-size: 600px; */
-    width: 200px;
-    padding-left: 50px;
-    height: 40px;
-    padding-top: 20px;
+.occassion .haparty, .breakfast, .lunch, .dinner{
+    width: 25%;
     color: white;
+    text-align: center;
 }
+.occassion .breakfast{
+    background-image: url("breakfast.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.occassion .lunch{
+    background-image: url("lunch.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.occassion .dinner{
+    background-image: url("dinner.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.occassion .haparty{
+    display: grid;
+    grid-auto-rows: 1fr;
+}
+.occassion .haparty .happy{
+    background-color: white;
+    color: #F15A29;
+    border: 2px solid yellowgreen;
+}
+
 .slogan{
     color: white;
     text-align: center;
     font-size: 35px;
     padding-bottom: 10px;
 }
+
+
 
 
 
